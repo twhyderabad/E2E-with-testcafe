@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "End to end Cross browser testing using testcafe. The project has been created for presentation in VodQA 2018 May edition",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node runner.js"
   },
   "repository": {
     "type": "git",
